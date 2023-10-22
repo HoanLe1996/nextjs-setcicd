@@ -1,0 +1,2 @@
+# nextjs-setcicd
+setup cicd
